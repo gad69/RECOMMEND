@@ -6,4 +6,4 @@ KNN BASED
 
 2)Please use the above data sets  https://www.kaggle.com/forgemaster/steam-reviews-dataset in this link keep those in the same folder of the Engine.py file
 
-3)Run Engine.py file as a Flask Application flask run Engine.py
+3)Run Engine.py file as a Flask Application flask run main.py
